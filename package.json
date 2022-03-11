@@ -1,6 +1,6 @@
 {
   "name": "shoe-size",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "homepage": "https://falk20.github.io/shoe-size/",
   "dependencies": {
